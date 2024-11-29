@@ -1,0 +1,7 @@
+Testing/input_img.png
+.virtual_documents
+.ipynb_checkpoints
+dataset
+license_plate_dataset
+.idea
+yolov8x.pt
