@@ -11,5 +11,7 @@ yolov8x.pt
 *.avi
 Testing/gitclone_anpr/automatic-number-plate-recognition-python-yolov8/models
 
+anpr
+
 results/main_tst.csv
 results/verticle_testing.csv
