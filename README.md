@@ -45,7 +45,7 @@ while the output video is creating it autoplay the video on your screen before c
 ## 🛠️ Setup and Installation
 1. Clone the repository:
 ```bash
-    git clone [repository-url]
+    git clone git@github.com:udaykirankoruvada/ANPR-and-ATCC-for-Smart-Traffic-Management.git
     cd ANPR-and-ATCC-for-Smart-Traffic-Management
 ```
 
@@ -70,4 +70,7 @@ while the output video is creating it autoplay the video on your screen before c
 ```bash
   python main.py
 ```
+
+### 🪪 LICENSE 
+ANPR and ATCC for Smart Traffic Management is released under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the project.
 
