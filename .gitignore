@@ -2,7 +2,6 @@ Testing/input_img.png
 .virtual_documents
 .ipynb_checkpoints
 dataset
-anpr
 license_plate_dataset
 .idea
 yolov8x.pt
@@ -11,3 +10,6 @@ yolov8x.pt
 *.pt
 *.avi
 Testing/gitclone_anpr/automatic-number-plate-recognition-python-yolov8/models
+
+results/main_tst.csv
+results/verticle_testing.csv
