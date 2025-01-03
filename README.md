@@ -14,7 +14,7 @@ This project implements an intelligent traffic management system utilizing Autom
 
 
 <p align="center">
-  <img src="output/main.gif" alt="Demo GIF" />
+  <img src="assests/main.gif" alt="Demo GIF" />
 </p>
 
 ## 📂 Project Structure
