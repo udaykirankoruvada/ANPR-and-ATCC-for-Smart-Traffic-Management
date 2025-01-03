@@ -1,6 +1,6 @@
-# 🚦 ANPR and ATCC for Smart Traffic Management
+#  ANPR and ATCC for Smart Traffic Management
 
-## 🧑‍💻 Project Overview
+##  Project Overview
 This project implements an intelligent traffic management system utilizing Automatic Number Plate Recognition (ANPR) and Automatic Traffic Classification and Control (ATCC). By leveraging Deep Learning and Object Detection techniques, the system automates traffic monitoring and control in smart city environments.
 
 ### Key Features
@@ -61,7 +61,7 @@ while the output video is creating it autoplay the video on your screen before c
 ```
 
 
-## 🏃‍♀️ Running the Project
+##  Running the Project
 
 
 1. Replace the path to your input video and your desired output directory.
